@@ -1,0 +1,51 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "vizsga",
+    "dateExported": "2023-05-31T11:31:52.858Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "8ef144e3-4c68-4397-8db3-95c88febe120",
+            "colId": "0545864c-f095-4862-94f0-18f96b5d5cd4",
+            "containerId": "",
+            "name": "Összes tesztek",
+            "url": "http://localhost:5000/tesztek/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-05-31T11:30:25.156Z",
+            "modified": "2023-05-31T11:30:25.156Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "1532f43f-47a4-40e6-916b-6b56f6df3670",
+            "colId": "0545864c-f095-4862-94f0-18f96b5d5cd4",
+            "containerId": "",
+            "name": "Összes kategória",
+            "url": "http://localhost:5000/kategoria",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-05-31T11:30:45.011Z",
+            "modified": "2023-05-31T11:30:45.011Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "a0f5e2c4-5ec5-4387-9b1c-238c4cd3d94d",
+            "colId": "0545864c-f095-4862-94f0-18f96b5d5cd4",
+            "containerId": "",
+            "name": "Adott kategória összes tesztje",
+            "url": "http://localhost:5000/tesztek/kategoria/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-05-31T11:31:06.739Z",
+            "modified": "2023-05-31T11:31:06.739Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
