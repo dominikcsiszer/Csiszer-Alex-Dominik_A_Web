@@ -1,0 +1,15 @@
+.card {
+    margin-bottom: 1rem;
+}
+
+.row {
+    padding: 5px;
+}
+
+.kerdes {
+    padding: 5px;
+    border: 1px solid #bde9fa;
+    background-color: #f1f8fc;
+    border-radius: 5px;
+    cursor: pointer;
+}
